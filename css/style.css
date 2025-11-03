@@ -173,7 +173,7 @@ body{
             }
             #interest {
             /* Existing Styles */
-              background: url(../assets/Why.webp) no-repeat center center/cover;
+              background: url(/assets/Why.webp) no-repeat center center/cover;
               border-radius: 25px;
               border: 2px solid red;
               padding: 20px;
